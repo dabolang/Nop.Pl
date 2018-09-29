@@ -1,0 +1,6 @@
+scrapy.cfg: 项目的配置文件。
+scrapyspider/: 该项目的python模块。之后您将在此加入代码。
+scrapyspider/items.py: 项目中的item文件。
+scrapyspider/pipelines.py: 项目中的pipelines文件。
+scrapyspider/settings.py: 项目的设置文件。
+scrapyspider/spiders/: 放置spider代码的目录。
