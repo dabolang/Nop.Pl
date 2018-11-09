@@ -1,0 +1,23 @@
+{
+    "remotePath": "/tmp/demo/",
+    "host": "60.205.185.72",
+    "username": "root",
+    "password": "15608338",
+    "port": 22,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "debug": true,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store",
+        "\\.pyc"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}
